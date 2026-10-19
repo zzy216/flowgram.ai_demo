@@ -1,0 +1,9 @@
+node_modules/
+dist/
+coverage/
+.eslintcache
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
